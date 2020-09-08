@@ -4,5 +4,10 @@ public class Homework{
 	private int age;
 	public void teach(){
 		System.out.println("你好");
+		System.out.println("你好");
+		System.out.println("你好");
+		System.out.println("你好");
+		System.out.println("你好");
+		System.out.println("你好");
 	}
 }
