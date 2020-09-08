@@ -9,5 +9,7 @@ public class Homework{
 		System.out.println("你好");
 		System.out.println("你好");
 		System.out.println("你好");
+		System.out.println("wuhu");
+
 	}
 }
